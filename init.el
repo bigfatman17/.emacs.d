@@ -16,7 +16,6 @@
 (require 'ecb-autoloads)
 (setq ecb-layout-name "left2")
 (setq ecb-show-sources-in-directories-buffer 'always)
-(setq ecb-compile-window-height 12)
 ; toggle
 (global-set-key (kbd "C-x ;") 'ecb-activate)
 (global-set-key (kbd "C-x '") 'ecb-deactivate)
