@@ -3,7 +3,7 @@ My Emacs configuration.
 
 Master Branch
 ----------------
-- Emacs 24
+- Emacs >= 24.3
 - Autopair
 - ECB
 - YASnippet
@@ -15,7 +15,7 @@ Master Branch
 
 Legacy Branch
 ---------------
-- Emacs 24
+- Emacs >= 24.3
 - Autopair
 - ECB
 - YASnippet
