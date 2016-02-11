@@ -10,7 +10,7 @@ Master Branch
 - CPPUtils-CMake
 - Company
 - Company-C-Headers
-- Flymake (included with Emacs 24)
+- Flycheck
 - Helm
 
 Legacy Branch
