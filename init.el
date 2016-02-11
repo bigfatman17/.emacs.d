@@ -39,6 +39,7 @@
 	  (lambda ()
 	    (setq flycheck-clang-language-standard "c++11")
 	      ))
+(setq flycheck-display-errors-delay 0)
 (eval-after-load 'flycheck
     '(progn
 	(set-face-attribute 'flycheck-warning nil
