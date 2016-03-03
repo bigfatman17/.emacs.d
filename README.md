@@ -12,6 +12,10 @@ Master Branch
 - Company-C-Headers
 - Flycheck
 - Helm
+- Irony
+- Flycheck-Irony
+- Company-Irony
+- Company-Irony-C-Headers
 
 Legacy Branch
 ---------------
