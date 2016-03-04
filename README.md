@@ -1,5 +1,5 @@
 # .emacs.d
-My Emacs configuration.
+My Emacs configuration. Works best with C/C++ development with CMake.
 
 Master Branch
 ----------------
