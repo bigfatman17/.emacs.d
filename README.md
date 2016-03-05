@@ -1,7 +1,8 @@
 .emacs.d
 ================
-My Emacs configuration. Works best with C/C++ development with CMake.
-Installation:
+My Emacs configuration. Works best with C/C++ development with CMake.  
+Installation:  
+
         $ git clone https://github.com/bigfatman17/.emacs.d ~/.emacs.d
 
 Master Branch
